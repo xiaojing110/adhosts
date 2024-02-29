@@ -1,6 +1,5 @@
 ! 规则版本: 1.4.0
 ! 更新时间: 2024-02-29
-
 1010pic.com
 8le8le.com
 a0.app.xiaomi.com
@@ -544,3 +543,5 @@ cloudinject*-dev.*.*-*-*.amazonaws.com
 cloudinject*-dev.s3.ap-northoreast-1.amazonaws.com
 sf3-be-pack.pglstatp-toutiao.com
 sanme2.taisantech.com
+lf-cdn-tos.bytescm.com
+nbsdk-baichuan.alicdn.com
