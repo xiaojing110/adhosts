@@ -262,6 +262,7 @@ liveats-vod.video.ptqy.gitv.tv
 lm10111.jtrincc.cn
 log-api-mn.huxiu.com
 log-api.huxiu.com
+log-sdk.ksapisrv.com
 log-api.pangolin-sdk-toutiao-b.com
 log-api.pangolin-sdk-toutiao.com
 log-report.com
