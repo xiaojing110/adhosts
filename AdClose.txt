@@ -12,6 +12,7 @@ ad.51wnl.com
 ad.bwton.com
 ad.cyapi.cn
 ad.flurry.com
+ad.oceanengine.com
 ad.partner.gifshow.com
 ad.qingting.fm
 ad.qq.com
@@ -129,6 +130,7 @@ applog.lc.quark.cn
 applog.uc.cn
 applog.zijieapi.com
 ata-sdk-uuid-report.dreport.meituan.net
+athena-api.oceanengine.com
 audid-api.taobao.com
 audid.umeng.com
 azr.footprintdns.com
@@ -316,6 +318,7 @@ mobileservice.cn
 mon.zijieapi.com
 monitor.music.qq.com
 monitor.uu.qq.com
+mon.snssdk.com
 monsetting.toutiao.com
 mssdk.volces.com
 mssdk.zijieapi.com
@@ -436,6 +439,7 @@ tmfsdktcpv4.m.qq.com
 tnc3-aliec1.toutiaoapi.com
 tnc3-aliec2.bytedance.com
 tnc3-aliec2.toutiaoapi.com
+tnc3-aliec2.zijieapi.com
 tnc3-alisc1.bytedance.com
 tnc3-bjlgy.bytedance.com
 tnc3-bjlgy.toutiaoapi.com
@@ -460,6 +464,8 @@ ulogs.umeng.com
 ulogs.umengcloud.com
 umengacs.m.taobao.com
 umengjmacs.m.taobao.com
+*.*umeng.com
+*.umeng.com
 umsns.com
 union.baidu.com
 update.avlyun.sec.miui.com
