@@ -1,5 +1,5 @@
 ! 规则版本: 1.4.0
-! 更新时间: 2024-03-01
+! 更新时间: 2024-03-03
 1010pic.com
 8le8le.com
 a0.app.xiaomi.com
@@ -53,6 +53,21 @@ ads.music.126.net
 ads.oppomobile.com
 ads.service.kugou.com
 ads.service.kugou.com
+ad.vivo.com.cn
+ads.alafish.cn
+ads.doordash.com
+ads.elevateplatform.co.uk
+ads.google.com
+ads.kazakh-zerno.net
+ads.lingxing.com
+ads.listonic.com
+ads.microsoft.com
+ads.midwayusa.com
+ads.pinterest.com
+ads.snapchat.com
+ads.spotify.com
+ads.twitter.com
+ads.vk.com
 ads3-normal-hl.zijieapi.com
 ads3-normal-lq.zijieapi.com
 ads5-normal-hl.zijieapi.com
@@ -462,6 +477,23 @@ ulog-sdk.gifshow.com
 ulogjs.gifshow.com
 ulogs.umeng.com
 ulogs.umengcloud.com
+uland.taobao.com
+stats.uptimerobot.com
+center-h5api.m.taobao.com
+app.adjust.com
+uland.taobao.com
+advertisement.taobao.com
+baozhang.baidu.com
+tongji.edu.cn
+tongji.cn
+ad.siemens.com.cn
+sdkapi.sms.mob.com
+stats.gov.cn
+tj.gov.cn
+sax.sina.com.cn
+news-app.abumedia.yql.yahoo.com
+meizu.coapi.moji.com
+track.cpau.info
 umengacs.m.taobao.com
 umengjmacs.m.taobao.com
 *.*umeng.com
