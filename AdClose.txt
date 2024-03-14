@@ -1,8 +1,12 @@
 #规则版本: 1.4.0
-#更新时间: 2024-03-03
+#更新时间: 2024-03-14
 1010pic.com
 8le8le.com
 a0.app.xiaomi.com
+android.bugly.qq.com
+*.bugly.qq.com
+amdcopen.m.umeng.com
+m.umeng.com
 aaid.umeng.com
 ad-scope.com
 ad-scope.com.cn
@@ -600,3 +604,5 @@ vi.bls.mdt.qq.com
 grs.dbankcloud.eu
 grs.dbankcloud.asia
 baichuan-sdk.alicdn.com
+adlink-api.huan.tv
+log-alibaba-taobao-douyin.cdn.bcebos.com.a.bdydns.com
