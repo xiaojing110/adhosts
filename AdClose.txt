@@ -147,6 +147,8 @@ apks.webxiaobai.top
 app-measurement.com
 applog.lc.quark.cn
 applog.uc.cn
+123.182.48.168
+106.8.131.51
 applog.zijieapi.com
 ata-sdk-uuid-report.dreport.meituan.net
 athena-api.oceanengine.com
@@ -193,6 +195,8 @@ data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
 dataflow.biliapi.com
 dc.sigmob.cn
+*.dc.sigmob.cn
+112.126.7.24
 diagnosis.ad.xiaomi.com
 dig.bdurl.net
 dl.zuimeitianqi.com
@@ -403,6 +407,8 @@ scdown.qq.com
 sdk-cache.video.ptqy.gitv.tv
 sdk.beizi.biz
 sdk.e.qq.com
+*.e.qq.com
+61.151.234.145
 sdkconf.avlyun.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
