@@ -1,5 +1,5 @@
 #规则版本: 1.4.0
-#更新时间: 2024-03-14
+#更新时间: 2024-03-16
 1010pic.com
 8le8le.com
 a0.app.xiaomi.com
@@ -612,3 +612,19 @@ grs.dbankcloud.asia
 baichuan-sdk.alicdn.com
 adlink-api.huan.tv
 log-alibaba-taobao-douyin.cdn.bcebos.com.a.bdydns.com
+fp-it.fengkongcloud.com
+sdk-open-phone.getui.com
+*.getui.com
+*.*getui.com
+sns-video-qc.xhscdn.com
+puds.ucweb.com
+df.tanx.com
+px.effirst.com
+v3-be-pack.pglstatp-toutiao.com
+tobapplog.ctobsnssdk.com
+log-api.pangolin-sdk-toutiao.com
+203.205.137.89
+ads.huantest.com
+adsmart.konka.com
+adx-ad.smart-tv.cn
+monitor-ads-test.huan.tv
