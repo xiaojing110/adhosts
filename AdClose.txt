@@ -628,3 +628,5 @@ ads.huantest.com
 adsmart.konka.com
 adx-ad.smart-tv.cn
 monitor-ads-test.huan.tv
+tp.9377s.com
+*.9377s.com
