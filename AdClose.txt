@@ -183,7 +183,6 @@ chc.ads.huan.tv
 ck.ads.oppomobile.com
 clog.miguvideo.com
 cm.bilibili.com
-cn-acs.m.cainiao.com
 cnzz.com
 collect.kugou.com
 crashlytics.com
@@ -642,3 +641,13 @@ adash.man.aliyuncs.com
 beacon-api.aliyuncs.com
 *.*aliyuncs.com
 *.aliyuncs.com
+ad.richmob.cn
+knicks.jd.com
+orbit.jd.com
+panglelog.gz.bcebos.com
+mapi.m.jd.com
+kepler.jd.com
+tnc3-alisc1.zijieapi.com
+tnc3-alisc2.zijieapi.com
+ad.richmob.cn
+sf3-fe-tos.pglstatp-toutiao.com
