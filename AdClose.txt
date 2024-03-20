@@ -1,5 +1,5 @@
-#规则版本: 1.4.0
-#更新时间: 2024-03-16
+#规则版本: 1.4.1
+#更新时间: 2024-03-20
 1010pic.com
 8le8le.com
 a0.app.xiaomi.com
@@ -628,5 +628,17 @@ ads.huantest.com
 adsmart.konka.com
 adx-ad.smart-tv.cn
 monitor-ads-test.huan.tv
-tp.9377s.com
-*.9377s.com
+msg.qy.net
+36.110.164.2
+t7z.cupid.aiqiyi.com
+ndct-data.video.aiqiyi.com
+log.mmstat.com
+gm.mmstat.com
+s-gm.mmstat.com
+*.mmstat.com
+adash.man.aliyuncs.com
+beacon-api.aliyuncs.com
+adash.man.aliyuncs.com
+beacon-api.aliyuncs.com
+*.*aliyuncs.com
+*.aliyuncs.com
