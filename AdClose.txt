@@ -613,6 +613,9 @@ adlink-api.huan.tv
 log-alibaba-taobao-douyin.cdn.bcebos.com.a.bdydns.com
 fp-it.fengkongcloud.com
 sdk-open-phone.getui.com
+sdk.open.talk.getui.net
+cm-10-32.getui.com
+cm-10-140.getui.com
 *.getui.com
 *.*getui.com
 sns-video-qc.xhscdn.com
@@ -651,3 +654,5 @@ tnc3-alisc1.zijieapi.com
 tnc3-alisc2.zijieapi.com
 ad.richmob.cn
 sf3-fe-tos.pglstatp-toutiao.com
+g.cn.miaozhen.com
+edgesdk.data.kuiniuca.com
