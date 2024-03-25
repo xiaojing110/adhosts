@@ -1,5 +1,7 @@
-#规则版本: 1.4.1
-#更新时间: 2024-03-20
+#规则版本: 1.4.2
+#更新时间: 2024-03-26
+#日志
+##增加电视广告域名
 1010pic.com
 8le8le.com
 a0.app.xiaomi.com
@@ -656,3 +658,14 @@ ad.richmob.cn
 sf3-fe-tos.pglstatp-toutiao.com
 g.cn.miaozhen.com
 edgesdk.data.kuiniuca.com
+bj.ad.track.66mobi.com
+sdk-ab-config.qquanquan.com
+sdk.hzsanjiaomao.com
+sdk.mobads.adwangmai.com
+sdk.hzsanjiaomao.com
+sdk.mobads.adwangmai.com
+tracelog-debug.qquanquan.com
+tvuser-ch.cedock.com
+
+
+
