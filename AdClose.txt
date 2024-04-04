@@ -671,3 +671,5 @@ c.gdt.qq.com
 pgdt.gtimg.cn
 cache.tv.qq.com
 otheve.beacon.qq.com
+yuwan-game.com
+sdkreport.e.qq.com
