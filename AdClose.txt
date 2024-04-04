@@ -668,3 +668,6 @@ tracelog-debug.qquanquan.com
 tvuser-ch.cedock.com
 wy.huajuhuyu.com
 c.gdt.qq.com
+pgdt.gtimg.cn
+cache.tv.qq.com
+otheve.beacon.qq.com
