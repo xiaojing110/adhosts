@@ -677,3 +677,14 @@ ylog.huya.com
 t4.a.market.xiaomi.com
 ads*-normal.zijieapi.com
 sigmob.cn
+api-cn.store.heytapmobi.com
+interface3.music.163.com/eapi/ad/loading/get
+interface3.music.163.com/eapi/ad/sniffing
+interface3.music.163.com/eapi/android/upgrade/get
+interface3.music.163.com/eapi/ad/loading/current
+interface3.music.163.com/eapi/ad/config/get
+interface3.music.163.com/eapi/ad/get
+app.bilibili.com/x/v2/splash/show
+app.bilibili.com/x/v2/splash/brand/list
+app.bilibili.com/x/v2/splash/event/list2
+app.bilibili.com/x/v2/splash/list
