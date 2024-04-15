@@ -1,5 +1,5 @@
 #规则版本: 1.4.2
-#更新时间: 2024-03-26
+#更新时间: 2024-04-15
 #日志
 ##增加电视广告域名
 1010pic.com
@@ -674,3 +674,6 @@ otheve.beacon.qq.com
 yuwan-game.com
 sdkreport.e.qq.com
 ylog.huya.com
+t4.a.market.xiaomi.com
+ads*-normal.zijieapi.com
+sigmob.cn
