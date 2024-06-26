@@ -2,6 +2,8 @@
 #更新时间: 2024-04-15
 #日志
 ##增加电视广告域名
+*.cdsn.net
+cdsn.net
 1010pic.com
 8le8le.com
 a0.app.xiaomi.com
