@@ -1,7 +1,7 @@
 localhost
 ::1ip6-localhost
-#规则版本: 1.4.2
-#更新时间: 2024-04-15
+#规则版本: 1.6.0
+#更新时间: 2024-07-22
 #日志
 ##增加一些屏蔽
 #最好别删上面这两个，localhost定义
@@ -24,8 +24,6 @@ update.avlyun.sec.miui.com
 flash.sec.miui.com
 data.sec.miui.com
 auth.be.sec.miui.com
-#米推？我也不确定
-mpush-api.aliyun.com
 #很明显，查找手机
 findapi.micloud.xiaomi.net
 lbs.map.qq.com
@@ -135,7 +133,6 @@ update.miui.ms
 www.miui.ms
 www.miuipro.info
 miuipro.info
-
 #感谢这个项目来的host文件https://github.com/Moe-hacker/FuckMIUI
 #禁用后将无法云扫描病毒
 etl-xlmc-ssl.sandai.net
@@ -165,17 +162,12 @@ logupdate.avlyun.sec.miui.com
 
 #流量更新、病毒白名单
 api.sec.miui.com
-
-
 #权限云控好像只针对部分机型？
 auth.be.sec.miui.com
-
 #反诈
 flash.sec.miui.com
-
 #快应用
 api.hybrid.xiaomi.com
-
 #浏览器热点下滑等
 o2o.api.xiaomi.com
 api.browser.miui.com
@@ -186,15 +178,12 @@ r.browser.miui.com
 hd.browser.miui.com
 c3-cache.browser.miui.com
 api-ipv4.browser.miui.com
-
-
 #???云控?
 qsb.browser.miui.srv
 rom.pt.miui.srv
 ccc.sys.miui.com
 jupiter.sys.miui.com
 metok.sys.miui.com
-
 #其他系统应用的垃圾sdk
 #qq扫描bugly阅读快应用等api
 #可能会影响部分功能
