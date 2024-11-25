@@ -4,6 +4,7 @@
 ##增加一些屏蔽
 #最好别删上面这两个，localhost定义
 #部分规则有重复
+algo.sass.kfcvme50.tech
 #软件安装验证相关，建议屏蔽，你懂的
 api.installer.xiaomi.com
 beacon-api.aliyuncs.com
