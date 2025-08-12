@@ -5,6 +5,7 @@
 #最好别删上面这两个，localhost定义
 #部分规则有重复
 # reject 规则
+sm01.alicdn.com
 msv6.wosms.cn
 adsmind.ugdtimg.com
 sns-avatar-qc.xhscdn.com
