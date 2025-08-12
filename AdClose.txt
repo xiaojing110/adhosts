@@ -4,6 +4,31 @@
 ##增加一些屏蔽
 #最好别删上面这两个，localhost定义
 #部分规则有重复
+# reject 规则
+DOMAIN,dns.alidns.com,reject
+DOMAIN,doh.pub,reject
+DOMAIN,ads-img-al.xhscdn.com,reject
+DOMAIN,ads-img-qc.xhscdn.com,reject
+DOMAIN,ads-video-al.xhscdn.com,reject
+DOMAIN,ads-video-qc.xhscdn.com,reject
+DOMAIN,ads-vp5.xhscdn.com,reject
+DOMAIN-WILDCARD,ads-*.xhscdn.com,reject
+DOMAIN,growth-img.xhscdn.com,reject
+DOMAIN,sns-webpic.xhscdn.com,reject
+DOMAIN,xhslive-video.xhscnd.com,reject
+DOMAIN-SUFFIX,xiaohongshu.com,reject
+DOMAIN-SUFFIX,redbascket.com,reject
+# direct 规则
+DOMAIN,ci.xiaohongshu.com,direct
+DOMAIN,edith.xiaohongshu.com,direct
+DOMAIN,miniprogram.xiaohongshu.com,direct
+DOMAIN,pages.xiaohongshu.com,direct
+DOMAIN,picasso-static.xiaohongshu.com,direct
+DOMAIN,rec.xiaohongshu.com,direct
+DOMAIN,so.xiaohongshu.com,direct
+DOMAIN,live-room.xiaohongshu.com,direct
+# proxy 规则
+DOMAIN,www.xiaohongshu.com,proxy
 #移动盒子屏蔽
 183.207.248.75
 183.207.249.75
