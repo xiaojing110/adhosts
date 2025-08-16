@@ -11,12 +11,6 @@ sm01.alicdn.com
 msv6.wosms.cn
 adsmind.ugdtimg.com
 sns-avatar-qc.xhscdn.com
-*.xhscdn.com
-sns-na-i6.xhscdn.com
-sns-na-i1.xhscdn.com
-sns-na-i3.xhscdn.com
-sns-na-i4.xhscdn.com
-sns-na-i5.xhscdn.com
 DOMAIN,dns.alidns.com,reject
 DOMAIN,doh.pub,reject
 DOMAIN,ads-img-al.xhscdn.com,reject
