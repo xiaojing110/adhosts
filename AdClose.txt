@@ -10,16 +10,7 @@ pis-tel-pcdn.youku.com
 sm01.alicdn.com
 msv6.wosms.cn
 adsmind.ugdtimg.com
-sns-avatar-qc.xhscdn.com
 DOMAIN,dns.alidns.com,reject
-DOMAIN,doh.pub,reject
-DOMAIN,ads-video-al.xhscdn.com,reject
-DOMAIN,ads-vp5.xhscdn.com,reject
-DOMAIN-WILDCARD,ads-*.xhscdn.com,reject
-DOMAIN,growth-img.xhscdn.com,reject
-DOMAIN,sns-webpic.xhscdn.com,reject
-DOMAIN,xhslive-video.xhscnd.com,reject
-DOMAIN-SUFFIX,xiaohongshu.com,reject
 DOMAIN-SUFFIX,redbascket.com,reject
 # direct 规则
 DOMAIN,ci.xiaohongshu.com,direct
