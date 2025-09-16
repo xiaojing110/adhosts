@@ -13,10 +13,7 @@ adsmind.ugdtimg.com
 sns-avatar-qc.xhscdn.com
 DOMAIN,dns.alidns.com,reject
 DOMAIN,doh.pub,reject
-DOMAIN,ads-img-al.xhscdn.com,reject
-DOMAIN,ads-img-qc.xhscdn.com,reject
 DOMAIN,ads-video-al.xhscdn.com,reject
-DOMAIN,ads-video-qc.xhscdn.com,reject
 DOMAIN,ads-vp5.xhscdn.com,reject
 DOMAIN-WILDCARD,ads-*.xhscdn.com,reject
 DOMAIN,growth-img.xhscdn.com,reject
