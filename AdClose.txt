@@ -13,10 +13,7 @@ adsmind.ugdtimg.com
 DOMAIN,dns.alidns.com,reject
 DOMAIN-SUFFIX,redbascket.com,reject
 # direct 规则
-DOMAIN,ci.xiaohongshu.com,direct
-DOMAIN,edith.xiaohongshu.com,direct
 DOMAIN,miniprogram.xiaohongshu.com,direct
-DOMAIN,pages.xiaohongshu.com,direct
 DOMAIN,picasso-static.xiaohongshu.com,direct
 DOMAIN,rec.xiaohongshu.com,direct
 DOMAIN,so.xiaohongshu.com,direct
