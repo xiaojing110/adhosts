@@ -4,6 +4,7 @@
 ##增加一些屏蔽
 #最好别删上面这两个，localhost定义
 #部分规则有重复
+hao.centbrowser.cn
 pis-tel-pcdn.youku.com
 *-tel-pcdn.youku.com
 # reject 规则
