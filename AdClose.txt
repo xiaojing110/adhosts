@@ -130,13 +130,13 @@ apm-rum.inf.miui.com
 #软件商店
 app.market.xiaomi.com
 q-app.market.xiaomi.com
-#反诈中心
+#中心
 gjfzpt.cn
 fzapp-test-tyy.gjfzpt.cn
 oss.gjfzpt.cn
 fzapp.gjfzpt.cn
 fzapph5.gjfzpt.cn
-#国家平台中心
+#中心
 miit.gov.cn
 mps.gov.cn
 beian.miit.gov.cn
