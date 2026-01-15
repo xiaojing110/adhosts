@@ -911,7 +911,6 @@ cm-10-32.getui.com
 cm-10-140.getui.com
 *.getui.com
 *.*getui.com
-sns-video-qc.xhscdn.com
 puds.ucweb.com
 df.tanx.com
 px.effirst.com
