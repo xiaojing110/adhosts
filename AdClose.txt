@@ -1,15 +1,43 @@
-#规则版本: 1.6.1
-#更新时间: 2025-11-08
+#规则版本: 1.6.5
+#更新时间: 2026-01-30
 #日志
 ##增加一些屏蔽
 #最好别删上面这两个，localhost定义
 #部分规则有重复
+adx-strategy-api-cn.statisticslinks.com
+*.medproad.com
+adtracker.medproad.com
+t-adx.52qumao.com
+syh.zybang.com
+ad.iot.360.cn
+ad.jia.360.cn
+ad.life.360.cn
+ad.shenshiads.com
+ad.xunkids.com
+applog-perf.uc.cn
+api-ad-data.kajicam.com
+m.shenshiads.com
+adx-api.jinmo.tech
+adx-saas.advlion.com
+bj-td-menta-01-callback.advlion.com
+c.etoolads.cn
+target.ads.jihuoniao.com
+l6.fancyapi.com
+##微博
+adstrategy.biz.weibo.com
+adimg.uve.weibo.com
+ad.weibo.com
+adui.tg.meitu.com
+adui.tg.meitu.com
+mores.toponad.com
+tuiguang.meitu.com
+ads.auctions.yahoo.com
+tagtic.cn
 tracelog-debug.yunxish.com
 sdkreport.e.qq.com
 s8t.teads.tv
 saad.ms.zhangyue.net
 saas.hpplay.cn
-safebrowsing.googleapis.com
 safebrowsing.urlsec.gg.com
 samsung-com.112.2o7.net
 samsungads.com
@@ -261,7 +289,6 @@ tdid.m.qq.com
 h.trace.qq.com
 api.yky.qq.com
 sdk.e.qq.com
-android.bugly.qq.com
 toblog.ctobsnssdk.com
 tobapplog.ctobsnssdk.com
 cfg.imtt.qq.com
@@ -277,7 +304,6 @@ zzhc.vnet.cn
 beacon-api.aliyuncs.com
 mpush-api.aliyun.com
 ug.snssdk.com
-t7z.cupid.iqiyi.com
 worldwide.sogou.com
 www.pangolin-dsp-toutiao.com
 master.wap.dphub.sandai.net
@@ -296,8 +322,6 @@ cdsn.net
 1010pic.com
 8le8le.com
 a0.app.xiaomi.com
-android.bugly.qq.com
-*.bugly.qq.com
 amdcopen.m.umeng.com
 m.umeng.com
 aaid.umeng.com
@@ -458,7 +482,6 @@ beacons.gvt2.com
 beizi.biz
 bingads.microsoft.com
 books-analytics-events.apple.com
-bugly.qq.com
 business-api.tiktok.com
 c.evidon.com
 c.gj.qq.com
@@ -491,7 +514,6 @@ dc.sigmob.cn
 112.126.7.24
 diagnosis.ad.xiaomi.com
 dig.bdurl.net
-dl.zuimeitianqi.com
 dlogs.bwton.com
 dm.toutiao.com
 doubleclick-cn.net
@@ -507,8 +529,6 @@ e.ad.xiaomi.com
 eclick.baidu.com
 ef-dongfeng.tanx.com
 entry.baidu.com
-errlog.umeng.com
-errnewlog.umeng.com
 event.tradplusad.com
 events-drcn.op.dbankcloud.cn
 firebaselogging-pa.googleapis.com
@@ -909,8 +929,6 @@ sdk-open-phone.getui.com
 sdk.open.talk.getui.net
 cm-10-32.getui.com
 cm-10-140.getui.com
-*.getui.com
-*.*getui.com
 puds.ucweb.com
 df.tanx.com
 px.effirst.com
