@@ -4,6 +4,14 @@
 ##增加一些屏蔽
 #最好别删上面这两个，localhost定义
 #部分规则有重复
+adimg.uve.weibo.com
+medproad.com
+ad.weibo.com
+tagtic.cn
+api-access.pangolin-sdk-toutiao-b.com
+sdkapp.uve.weibo.com
+adx-strategy-api-cn.statisticslinks.com
+ads.auctions.yahoo.com
 adx-strategy-api-cn.statisticslinks.com
 *.medproad.com
 adtracker.medproad.com
@@ -630,7 +638,6 @@ logservice1.hicloud.com
 logtj.kugou.com
 logupdate.avlyun.sec.miui.com
 m.kubiqq.com
-m1.ad.10010.com
 masdkv6.3g.qq.com
 mazu.m.qq.com
 mdp-usertrace-cn.heytapmobi.com
@@ -942,7 +949,7 @@ adx-ad.smart-tv.cn
 monitor-ads-test.huan.tv
 msg.qy.net
 36.110.164.2
-t7z.cupid.aiqiyi.com
+t7z.cupid.ptqy.gitv.tv
 ndct-data.video.aiqiyi.com
 log.mmstat.com
 gm.mmstat.com
